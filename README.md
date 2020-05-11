@@ -1,6 +1,2 @@
-Welcome To My GitHub Page
-
-http://abhishekpatelmc.github.io
-
-Welcome to GitHub Pages
+Version one of my profile page
 
